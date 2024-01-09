@@ -13,7 +13,7 @@
 #### 4. Click `Copy URL to clipboard`
 #### 5. Open `Terminal` application in your operating system
 #### 6. Navigate to the chosen destination folder
-#### 7. Use command `git clone git@github.com:AlexWond/WoltOrderTesting.git`
+#### 7. Use command `git clone ` and paste from clipboard
 #### 8. Navigate to *WoltOrderTesting* folder using `cd .\WoltOrderTesting\` command
 #### 9. Use `npm install` command to install packages
 #### 10. Use `cypress run --headed --spec .\cypress\e2e\wolt.spec.cy.js` to run the test
